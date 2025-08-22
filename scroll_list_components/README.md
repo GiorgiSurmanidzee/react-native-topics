@@ -1,5 +1,3 @@
-# REACT NATIVE TOPICS
-
 ## 🆚 FlatList vs ScrollView
 
 ### 1. ScrollView
